@@ -1,4 +1,4 @@
-# focus_frequencies
+# Noise compose
 
 A simple Vue project that will generate different style of noises for work. It will also visualize the current noise frequencies and allow user to tune parameters of the noise, like different kind of filters with variable cutoff frequency, and some other modulations.
 
