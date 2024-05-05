@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "pinia": "^2.1.7",
+    "roughness": "0.1.0-beta.22",
     "vue": "^3.4.21"
   },
   "devDependencies": {
