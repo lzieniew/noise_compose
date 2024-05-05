@@ -1,0 +1,15 @@
+todos:
+  - [ ] make some test buttons etc
+  - [ ] https://roughness.vercel.app/ - use this library for UI on those test buttons
+  - [ ] setup pinia for local store
+  - [ ] find some good library for graphs
+  - [ ] implement generating white noise
+  - [ ] implement graph of white noise FFT
+  - [ ] check graph by hardcoding different filters
+  - [ ] keep the filters in pinia
+  - [ ] create filter bar component with all subcomponents
+  - [ ] make the filter bar work with pinia filters
+  - [ ] tie it all together by making filters really work
+  - [ ] create presets for white, brown and pink noises
+  - [ ] add CRUD for presets, so user will be able to create own noises - probably by naming them with colors, maybe with custom names on demand
+  - [ ] deploy on production - may be done in some ealrier step
